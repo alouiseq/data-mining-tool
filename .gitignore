@@ -1,0 +1,4 @@
+cp_BUILD
+*.pyc
+*.csv
+*.swp
